@@ -1,7 +1,7 @@
 # TwitterTimer
 
 This project tracks the time since a Twitter user's last tweet. This API exposes endpoints that will allow you to request
-the time since a last tweet, the timestamp of the last tweet, and the html of the last tweet.
+the time since a last tweet, the timestamp of the last tweet, the twiiter account handle, and the html of the last tweet.
 
 ## Configuration
 
