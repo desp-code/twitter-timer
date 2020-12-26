@@ -1,0 +1,20 @@
+.headline {
+    color: #202124;
+    font: 400 24px/64px Google Sans Display, "Helvetica Neue", sans-serif;
+    line-height: 1;
+}
+.subtitle {
+    color:#202124;
+    font: 400 22px/32px Google Sans, "Helvetica Neue", sans-serif;
+}
+.section {
+    color: #3c4043;
+    font: 400 16px/24px Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: .1px;
+    text-align: center;
+}
+
+.sub-subtitle {
+    color: #3c4043b8;
+    font: 400 14px/32px Google Sans, "Helvetica Neue", sans-serif;
+}

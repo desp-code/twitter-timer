@@ -1,0 +1,54 @@
+.section {
+    display: flex;
+    align-items: center;
+    color: #3c4043;
+    text-align: center;
+    margin: 0 auto;
+    width: 35%;
+    position:absolute;
+    top:0
+}
+
+.tweet-header {
+  text-align: left;
+  padding-left: 10px;
+  font-weight: 700;
+  letter-spacing: .025rem;
+  font-family: Helvetica Neue LT,Helvetica Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+  font-size: .9975rem;
+  line-height: 1.5rem;
+}
+
+.twitter-header {
+  display: flex;
+}
+
+.tweet {
+    color: #3c4043;
+    font: 400 16px/24px Roboto, "Helvetica Neue", sans-serif;
+    letter-spacing: .1px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+    border-color: #eee #ddd #bbb;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    padding: 0 16px 16px 16px;
+    max-width: 468px;
+}
+
+.blue-line {
+  background-color: #1da1f2;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1.125rem;
+  height: inherit;
+}

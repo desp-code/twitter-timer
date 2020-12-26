@@ -1,0 +1,22 @@
+@import url(//db.onlinewebfonts.com/c/84cb021d5f9af287ffff84b61beef6dc?family=clockicons);
+
+.section {
+    color: #3c4043;
+    font: 400 16px/24px sans-serif;
+    letter-spacing: .1px;
+    text-align: center;
+    margin: 50px;
+}
+
+span {
+    font-size: 34px;
+    line-height: 44px;
+    display:inline;
+}
+.red {
+    color: #ea4335;
+}
+
+.font-digit {
+    font-family: clockicons,sans-serif
+}

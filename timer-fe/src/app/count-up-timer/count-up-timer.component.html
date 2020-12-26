@@ -1,0 +1,8 @@
+
+
+<div class = "section" [class]="timerConfig?.timerClass ? timerConfig.timerClass : ''">
+    <span class="red font-digit">{{timerObj.hours}}</span><span class="time-category"><b>{{timerObj.hours <= 1 ? ' Hour' : ' Hours'}} </b></span>
+    <span class="red font-digit">{{timerObj.mins}}</span><span class="time-category"><b>{{timerObj.mins <= 1 ? ' Minute' : ' Minutes'}} </b></span>
+    <span class="red font-digit">{{timerObj.seconds}}</span><span class="time-category"><b>{{timerObj.seconds <= 1 ? ' Second' : ' Seconds'}}</b></span>
+  </div>
+
